@@ -111,3 +111,4 @@ theorem ex10_absorbtion (p q : Prop) : p ∧ (p ∨ q) ↔ p := by
   exact h1
   left
   exact h1
+
